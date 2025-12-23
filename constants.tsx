@@ -1,5 +1,5 @@
 
-import { InvestmentTier, RevenueStream, RoadmapItem, Post, Listing, MotoEvent } from './types';
+import { InvestmentTier, RevenueStream, RoadmapItem, Post, Listing, MotoEvent } from './types.ts';
 
 export const INVESTMENT_TIERS: InvestmentTier[] = [
   {
